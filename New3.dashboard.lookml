@@ -28,6 +28,9 @@
     conditional_formatting_include_totals: false
     conditional_formatting_include_nulls: false
     defaults_version: 1
+    series_cell_visualizations:
+    products.count:
+    is_active: false
     listen: {}
     row: 0
     col: 0
