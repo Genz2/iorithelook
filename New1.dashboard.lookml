@@ -69,6 +69,9 @@
     col: 0
     width: 24
     height: 12
+    series_cell_visualizations:
+    products.count:
+    is_active: false
   - title: New Tile
     name: New Tile
     model: iorithelook
@@ -127,3 +130,10 @@
     col:
     width:
     height:
+    # - series_cell_visualizations:
+    # orders.count:
+    # is_active: false
+    # palette:
+    # palette_id: my-custom-colors-sequential-0
+    # collection_id: my-custom-colors
+    # value_display: true
