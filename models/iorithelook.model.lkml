@@ -3,6 +3,8 @@ connection: "thelook"
 # include all the views
 include: "/views/**/*.view.lkml"
 
+include: "/New1.dashboard.lookml"
+
 
 datagroup: iorithelook_default_datagroup {
   # sql_trigger: SELECT MAX(id) FROM etl_log;;
