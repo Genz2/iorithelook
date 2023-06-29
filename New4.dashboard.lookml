@@ -98,7 +98,7 @@
     minimum_column_width: 75
     series_cell_visualizations:
       products.count:
-        is_active: false
+        is_active: true
     defaults_version: 1
     listen: {}
     row:
