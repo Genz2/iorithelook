@@ -70,7 +70,7 @@
     width: 24
     height: 12
     series_cell_visualizations:
-    products.count:
+    products.count_format:
     is_active: false
   - title: New Tile
     name: New Tile
