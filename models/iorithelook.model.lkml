@@ -7,6 +7,8 @@ include: "/New1.dashboard.lookml"
 
 include: "/New3.dashboard.lookml"
 
+include: "/New4.dashboard.lookml"
+
 
 datagroup: iorithelook_default_datagroup {
   # sql_trigger: SELECT MAX(id) FROM etl_log;;
